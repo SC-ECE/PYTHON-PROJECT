@@ -80,7 +80,7 @@ Then lets start with this repository.
 
 
 ``$ cd <cloned-folder>`` 
-``$ git remote add upstream https://github.com/scEce-Tech/PYTHON-PROJECT.git ``
+``$ git remote add upstream https://github.com/SC-ECE/PYTHON-PROJECT.git ``
 ******
 
 #### 4️⃣ Now synchronize your forked repo:
@@ -129,8 +129,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:      🚀 **Contribut
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/scEce-Tech/PYTHON-PROJECT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scEce-Tech/PYTHON-PROJECT" />
+			<a href="https://github.com/SC-ECE/PYTHON-PROJECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SC-ECE/PYTHON-PROJECT" />
 </a>
 		</td>
 	</tr>
