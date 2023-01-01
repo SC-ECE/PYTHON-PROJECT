@@ -15,7 +15,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 https://synapse1-0.vercel.app/
 
 
-# Rules and Regulations of contribution in Web-Project Repository
+# Rules and Regulations of contribution in Python-Project Repository
 - Folder Name = Project Name
 - Add Readme file. Demo of Readme file is given in the readme.md of the repo.
 
