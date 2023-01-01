@@ -17,7 +17,7 @@ https://synapse1-0.vercel.app/
 
 # Rules and Regulations of contribution in Python-Project Repository
 - Folder Name = Project Name
-- Add Readme file. Demo of Readme file is given in the readme.md of the repo.
+- You have to make a readme file and attach the ticket in your contributed folder.
 
 # Rewards :
 - You get some awesome goodies for **FREE!**.
