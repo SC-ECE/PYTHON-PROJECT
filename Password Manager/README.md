@@ -18,3 +18,8 @@ Password Manager is a application that helps you to manage your passwords effici
 <b>3. Dark Mode</b> : Yeah, it comes with two themes. Light mode & Dark mode. You can easily switch between these modes by clicking the football like icon at the bottom right.
 
 <b><i>Try it & Give your feedback</i></b>
+
+### Contributed by [abanand132](https://github.com/abanand132)
+![Abhishek Anand](https://user-images.githubusercontent.com/76703822/210174187-c7474496-3131-44c1-8d09-b6d0e2ce3eb6.png)
+
+
