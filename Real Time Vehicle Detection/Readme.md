@@ -4,6 +4,13 @@
 
 This project detects Cars from Real Time Videos and makes box around them to Identyfy. It is mainly made by `OpenCV` python module. 
 
+### To Run:-
+    
+  Download all 3 files Open them in any IDE and run
+    
+    python main.py
+  
+
 ### Overview :-
 
 ![g1](https://user-images.githubusercontent.com/105111251/212137841-765294ed-13e4-4add-80a3-238ba6c9fe06.gif)
