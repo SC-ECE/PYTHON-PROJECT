@@ -1,4 +1,4 @@
-# Image 📸 to Pencil ✏️ Sketch
+# Image 📸 to Pencil ✏️ Sketch Using Python
 
 ## Description
 This is a Python Project where I have taken a coloured image and converted it to Pencil Sketch via various other steps.
