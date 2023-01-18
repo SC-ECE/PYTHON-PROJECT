@@ -1,4 +1,4 @@
-# Create a Simple Two Player Game using Turtle in Python
+# A Two Player Game using Turtle in Python
 
 ## Description
 
